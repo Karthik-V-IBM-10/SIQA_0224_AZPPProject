@@ -7,17 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="SIQACloudStreamsTests">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">11</value>
+  <value name="build">12</value>
   <null name="description"/>
   <value name="created_date">24-02-2025 11:03:55 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-02-24T11:56:15.11441404Z</value>
+  <value name="lastUpdated">2025-02-24T11:58:49.631431771Z</value>
   <value name="wmProjectId">flf755e7ae295f5e50b737bb</value>
   <value name="creator">siqadeveloper siqadeveloper</value>
 </Values>
