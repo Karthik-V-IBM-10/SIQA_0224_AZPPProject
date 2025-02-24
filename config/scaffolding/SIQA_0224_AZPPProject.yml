@@ -15,6 +15,11 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: SSL_JDBC_Test
+  gitServerName: SIQAPsur
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: prabhakarsag
+  gitBranch: main
 services:
 - serviceName: project.siqa_0224_azpp.integrations:SIQAAdapterFlow
   packages:
